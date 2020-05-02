@@ -1,7 +1,6 @@
 # Tuto-mqtt-js
 This is a quick tutorial for mqtt in Java Script
 
-If you have any question: *florian.hueber@edu.ece.fr*
 ##
 
 **BEFORE TRYING TO RUN THE CODE !!!**
